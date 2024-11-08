@@ -14,7 +14,7 @@ YOLOv10 (You Only Look Once) is a highly efficient object detection model that i
 
 ## Dataset
 
-The dataset used in this project is the [Brain MRI Dataset from Roboflow](https://universe.roboflow.com/brain-mri/mri-rskcu/dataset/3). It contains annotated MRI images of brain scans, labelled with the locations of tumors. The dataset is pre-split into training and validation sets, which allows for efficient model training and evaluation.
+The dataset used in this project is the [Brain MRI Dataset from Roboflow](https://universe.roboflow.com/brain-mri/mri-rskcu/dataset/3). It contains annotated MRI images of brain scans, labelled with the locations of tumours. The dataset is pre-split into training and validation sets, which allows for efficient model training and evaluation.
 
 - Access the dataset: [Brain MRI Dataset on Roboflow](https://universe.roboflow.com/brain-mri/mri-rskcu/dataset/3)
 
@@ -23,7 +23,6 @@ The dataset used in this project is the [Brain MRI Dataset from Roboflow](https:
 - **YOLOv10**: Object detection model used for detecting and localizing brain tumors in MRI images.
 - **Google Colab**: Cloud-based environment used for model training and experimentation.
 - **Gradio**: Tool for building and deploying interactive machine learning applications.
-- **Python Libraries**: OpenCV, NumPy, Matplotlib, etc., for data manipulation and visualization.
 
 ## Training and Deployment
 
