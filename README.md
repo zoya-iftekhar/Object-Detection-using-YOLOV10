@@ -31,13 +31,4 @@ The dataset used in this project is the [Brain MRI Dataset from Roboflow](https:
    
 2. **Deployment with Gradio**: After training the model, it is deployed using Gradio, creating an interactive web interface for users to upload MRI images and receive real-time tumor detection results.
 
-- Access the deployed model: [Gradio Link](https://your-gradio-link.com)
-
-## How to Use
-
-1. Clone the repository:
-   
-   ```bash
-   git clone https://github.com/your-username/brain-tumor-detection-yolov10.git
-   cd brain-tumor-detection-yolov10
-
+- Access the deployed model using the Gradio link.
